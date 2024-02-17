@@ -3,7 +3,7 @@
 ![readmeFigure](https://github.com/techcomkathia/cardapioYs/assets/125410101/4dd986f9-6a39-47b6-9b8f-ced1cc4b813c)
 
 
-Este projeto foi desenvolvido para os alunos da Youth Space no módulo 1 do curso de Desenvolvimento Full Stack JavaScript.
+Este projeto foi desenvolvido para os alunos da Youth Space no Módulo 1 do Curso de Desenvolvimento Full Stack JavaScript.
 O objetivo principal é aplicar os conhecimentos adquiridos no módulo de HTML e CSS, criando um cardápio digital para uma hamburgueria.
 
 ## Assuntos Abordados
